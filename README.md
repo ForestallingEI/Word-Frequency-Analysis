@@ -2,7 +2,7 @@ Word Frequency Analysis in GO
 ===  
 
 Chat-GPT-answer based.  
-Mind Map attached in this repo.  
+[Mind Map](/MindMap.png) attached in this repo.  
 
 ---  
 ### The text resource  
